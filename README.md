@@ -1,7 +1,6 @@
 # CPP-Utilities
 This repo contains useful C++ utilities I have created/adopted that has made my life easier and hopefully will make yours too 💪
 
-
 ## Contents
 -- Table here
 
@@ -20,3 +19,6 @@ timer time; // starts the timer
 double final_time = time.getTime(); // returns the execution time
 ...
 ```
+
+## Contributions
+I am completely open to collaboration. If there is a specific utility you want me to create, or improve upon, submit a feature request through issues, or submit a pull-request with the feature! 
